@@ -1,3 +1,3 @@
-module git.sr.ht/~adnano/go-collide
+module github.com/wyzzhe/packagemanager_go
 
 go 1.15
